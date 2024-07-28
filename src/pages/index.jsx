@@ -30,7 +30,7 @@ const Container1 = () => (
                     marginTop: 140,
                     marginLeft: 105
                 }}>
-                    Registrate
+                    Inscripciones gratuitas
                 </button>
             </div>
             <div className="sc-11eee2bc-3 eWHvSk p-16 p-tablet-24 p-laptop-40 d-flex flex-column flex-grow-1">

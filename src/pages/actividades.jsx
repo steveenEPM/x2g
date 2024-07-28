@@ -19,10 +19,9 @@ export default function () {
         </>
     )
 }
-
 const Container1 = () => (
     <div className="sc-11eee2bc-0 jAwpjL" style={{
-        marginTop: 120,marginBottom:30
+        marginTop: 120
     }}>
         <div className="sc-11eee2bc-2 cHPxBG">
             <div style={{
@@ -31,8 +30,15 @@ const Container1 = () => (
                 backgroundSize: "cover",
                 display: "flex",
                 alignItems: "center",
-            }} />
-
+            }}>
+                <button className="Button__StyledButton-sc-1gfts8g-0 gMZAES btn_loing" style={{
+                    backgroundColor: "white",
+                    marginTop: 140,
+                    marginLeft: 105
+                }}>
+                    Inscripciones gratuitas
+                </button>
+            </div>
             <div className="sc-11eee2bc-3 eWHvSk p-16 p-tablet-24 p-laptop-40 d-flex flex-column flex-grow-1">
                 <p className="Paragraph__StyledParagraph-sc-156wo7x-0 hQPBue">18-19-20 NOVIEMBRE 2024</p>
                 <p className="Paragraph__StyledParagraph-sc-156wo7x-0 hQPBue">09H00 A 18H00</p>
